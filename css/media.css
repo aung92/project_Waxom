@@ -1,0 +1,1491 @@
+/* X-small devices (portrait phones, less than 576px) */ 
+@media (max-width: 575.98px) { 
+
+     /*--- slider start---*/
+
+     .slider {
+        height: 300px;
+     }
+
+     .slider h2 {
+        font-size: 16px;
+     }
+
+
+     .slider h1 {
+        font-size: 25px;
+     }
+
+
+     .slider p {
+        font-size: 12px;
+        padding: 0 70px;
+     }
+
+     .slider a {
+        margin-left: 55px;
+     }
+
+     .cid {
+        bottom: -35%;
+     }
+
+     /*--- slider end---*/
+
+
+     /*--- service start---*/
+
+    .s_service {
+        margin-top: 5px;
+    }
+
+    .s_service h5 {
+        margin-bottom: 20px;
+    }
+
+    .s_service p {
+        margin: 10px 0;
+        font-size: 12px;
+        padding: 0 15%;
+    }
+
+    .s_icon {
+        font-size: 25px;
+    }
+
+
+     /*--- service end---*/
+
+
+      /*--- ideas start---*/
+
+    .ideas h2 {
+        margin-top: -50px;
+        font-size: 22px;
+    }
+
+    .ideas p {
+        margin-top: 15px;
+        font-size: 12px;
+        padding: 0 15%;
+
+      }
+
+
+
+       /*--- ideas end---*/
+
+
+      /*--- purchase-bar start---*/
+
+      .purchase-bar {
+        height: 180px;
+      }
+
+      .purchase-bar h2 {
+        font-size: 20px;
+        text-align: center;
+      }
+
+      .purchase-bar p {
+        font-size: 12px;
+        text-align: center;
+      }
+
+      .purchase-now {
+
+      }
+
+       /*--- purchase-bar end---*/
+
+
+       /*--- latest project start---*/
+
+       .latest-projects {
+            margin-top: 30px;
+       }
+
+       .projects {
+            float: left;
+            margin: 5px;
+       }
+
+       .latest-projects h2 {
+            font-size: 20px;
+       }
+
+
+       .latest-projects p {
+            font-size: 12px;
+            padding: 0 20px;
+       }
+
+       .latest-projects h4 {
+            font-size: 18px;
+       }
+
+
+
+    /*--- latest project end---*/
+
+
+    /*--- content start---*/
+
+    .content {
+
+    }
+
+
+    .content img {
+        padding-top: 0;
+        width: 50%;
+    }
+
+
+    .content h2 {
+        font-size: 20px;
+        padding-top: 30px;
+        text-align: center;
+    }
+
+
+    .content p {
+        font-size: 12px;
+        text-align: center;
+        padding: 0 30px;
+    }
+
+    .content ul li {
+        font-size: 12px;
+    }
+
+
+    .content ul li i {
+        font-size: 12px;
+    }
+
+    /*--- content end---*/
+
+
+    /*--- satisfy start---*/
+
+    .s_satisfied {
+        float: left;
+        width: 50%;
+    }
+
+    /*--- satisfy end---*/
+
+    /*--- recent post start---*/
+
+    .post {
+        margin: 10px 30px;
+    }
+
+    .recent-post h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .recent-post p {
+        font-size: 12px !important;
+        padding: 0 60px;
+    }
+
+    /*--- recent post end---*/
+
+
+
+    /*--- brand start---*/
+
+    .brand {
+        padding-top: 0;
+        
+    }
+
+    .s_brand {
+        
+        width: 50%;
+    }
+
+
+    .brand img {
+       margin-left: 50px;
+    }
+
+
+
+    /*--- brand end---*/
+
+
+    /*--- footer start---*/
+
+    .footer {
+        height: auto;
+        text-align: center;
+    }
+
+    .footer h4 {
+        font-size: 20px !important;
+    }
+
+
+    .footer p {
+        font-size: 12px !important;
+    }
+
+    /*--- footer end---*/
+
+
+
+    /*--- copyright start---*/
+
+    .copyright {
+        height: 100px;
+    }
+
+    .copyright ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+
+    /*--- copyright end---*/
+
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */ 
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+     /*--- slider start---*/
+
+     .slider h2 {
+        font-size: 16px;
+     }
+
+
+     .slider h1 {
+        font-size: 25px;
+     }
+
+
+     .slider p {
+        font-size: 12px;
+        padding: 0 60px;
+     }
+
+     
+
+     /*--- slider end---*/
+
+
+     /*--- service start---*/
+
+    .s_service {
+        margin-top: 5px;
+    }
+
+    .s_service h5 {
+        margin-bottom: 20px;
+    }
+
+    .s_service p {
+        margin: 10px 0;
+        font-size: 12px;
+    }
+
+    .s_icon {
+        font-size: 25px;
+    }
+
+
+     /*--- service end---*/
+
+
+      /*--- ideas start---*/
+
+    .ideas h2 {
+        margin-top: -50px;
+        font-size: 22px;
+    }
+
+    .ideas p {
+        margin-top: 15px;
+        font-size: 12px;
+      }
+
+
+
+       /*--- ideas end---*/
+
+
+      /*--- purchase-bar start---*/
+
+      .purchase-bar {
+        height: 180px;
+      }
+
+      .purchase-bar h2 {
+        font-size: 20px;
+        text-align: center;
+      }
+
+      .purchase-bar p {
+        font-size: 12px;
+        text-align: center;
+      }
+
+      .purchase-now {
+
+      }
+
+       /*--- purchase-bar end---*/
+
+
+       /*--- latest project start---*/
+
+       .latest-projects {
+            margin-top: 30px;
+       }
+
+       .projects {
+            margin: 10px 0;
+       }
+
+       .latest-projects h2 {
+            font-size: 20px;
+       }
+
+
+       .latest-projects p {
+            font-size: 12px;
+       }
+
+       .latest-projects h4 {
+            font-size: 18px;
+       }
+
+
+
+    /*--- latest project end---*/
+
+
+    /*--- content start---*/
+
+    .content {
+
+    }
+
+
+    .content img {
+        padding-top: 0;
+    }
+
+
+    .content h2 {
+        font-size: 20px;
+        padding-top: 30px;
+        text-align: center;
+    }
+
+
+    .content p {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .content ul li {
+        font-size: 12px;
+    }
+
+
+    .content ul li i {
+        font-size: 12px;
+    }
+
+    /*--- content end---*/
+
+
+    /*--- satisfy start---*/
+
+    .s_satisfied {
+        float: left;
+        width: 50%;
+    }
+
+    /*--- satisfy end---*/
+
+    /*--- recent post start---*/
+
+    .recent-post h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .recent-post p {
+        font-size: 12px !important;
+    }
+
+
+
+
+    /*--- recent post end---*/
+
+
+
+    /*--- brand start---*/
+
+    .brand {
+        background-image: url(../images/bg2.png);
+        height: 300px;
+        padding-top: 10px;
+    }
+
+    .s_brand {
+        width: 50%;
+    }
+
+
+    .brand img {
+       
+    }
+
+
+
+    /*--- brand end---*/
+
+
+    /*--- footer start---*/
+
+    .footer {
+        height: auto;
+    }
+
+    .footer h4 {
+        font-size: 20px !important;
+        padding-top: 10px;
+    }
+
+
+    .footer p {
+        font-size: 12px !important;
+    }
+
+    /*--- footer end---*/
+
+
+
+    /*--- copyright start---*/
+
+    .copyright {
+        height: 100px;
+    }
+
+    .copyright ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+
+    /*--- copyright end---*/
+    
+ }
+
+/* Medium devices (tablets, 768px and up) */ 
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+    /*--- slider start---*/
+
+     .slider h2 {
+        font-size: 20px;
+     }
+
+
+     .slider h1 {
+        font-size: 35px;
+     }
+
+
+     .slider p {
+        font-size: 12px;
+        
+     }
+
+     
+
+     /*--- slider end---*/
+
+
+     /*--- service start---*/
+
+    .s_service {
+        margin-top: 5px;
+    }
+
+    .s_service h5 {
+        margin-bottom: 20px;
+    }
+
+    .s_service p {
+        margin: 10px 0;
+        font-size: 14px;
+        
+    }
+
+    .s_icon {
+        font-size: 25px;
+    }
+
+
+     /*--- service end---*/
+
+
+      /*--- ideas start---*/
+
+    .ideas h2 {
+        margin-top: -50px;
+        font-size: 22px;
+    }
+
+    .ideas p {
+        margin-top: 15px;
+        font-size: 14px;
+
+      }
+
+
+
+       /*--- ideas end---*/
+
+
+      /*--- purchase-bar start---*/
+
+      .purchase-bar {
+        height: 180px;
+      }
+
+      .purchase-bar h2 {
+        font-size: 22px;
+        
+      }
+
+      .purchase-bar p {
+        font-size: 12px;
+        
+      }
+
+      .purchase-now {
+
+      }
+
+      .purchase-bar .btn {
+        padding-top: 25px;
+      }
+
+       /*--- purchase-bar end---*/
+
+
+       /*--- latest project start---*/
+
+       .latest-projects {
+            margin-top: 30px;
+       }
+
+       .projects {
+        margin: 10px 0;
+       }
+
+       .latest-projects h2 {
+            font-size: 25px;
+       }
+
+
+       .latest-projects p {
+            font-size: 14px;
+            padding: 0 30px ;
+       }
+
+       .latest-projects h4 {
+            font-size: 18px;
+       }
+
+
+
+    /*--- latest project end---*/
+
+
+    /*--- content start---*/
+
+    .content {
+
+    }
+
+
+    .content img {
+        padding-top: 82px;
+    }
+
+
+    .content h2 {
+        font-size: 25px;
+        padding-top: 25px;
+        text-align: center;
+    }
+
+
+    .content p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .content ul li {
+        font-size: 14px;
+    }
+
+
+    .content ul li i {
+        font-size: 14px;
+    }
+
+    /*--- content end---*/
+
+
+    /*--- satisfy start---*/
+
+    .s_satisfied {
+        float: left;
+        width: 20%;
+    }
+
+    /*--- satisfy end---*/
+
+    /*--- recent post start---*/
+
+    .recent-post h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .recent-post p {
+        font-size: 14px !important;
+    }
+
+
+
+
+    /*--- recent post end---*/
+
+
+
+    /*--- brand start---*/
+
+    .s_brand {
+        
+    }
+
+
+    .brand img {
+       
+    }
+
+
+
+    /*--- brand end---*/
+
+
+    /*--- footer start---*/
+
+    .footer {
+        height: auto;
+    }
+
+    .footer h4 {
+        font-size: 20px !important;
+        padding-top: 10px;
+    }
+
+
+    .footer p {
+        font-size: 12px !important;
+    }
+
+    /*--- footer end---*/
+
+
+
+    /*--- copyright start---*/
+
+    .copyright {
+        height: 100px;
+    }
+
+    .copyright ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+
+    /*--- copyright end---*/
+    
+ }
+
+/* Large devices (desktops, 992px and up) */ 
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    /*--- menu start---*/
+
+    .menu ul li a{
+       
+        font-size: 16px;
+        font-weight: 600;
+        
+    }
+
+    /*--- menu end---*/
+    
+    /*--- slider start---*/
+
+     .slider h2 {
+        font-size: 30px;
+     }
+
+
+     .slider h1 {
+        font-size: 45px;
+     }
+
+
+     .slider p {
+        font-size: 16px;
+        
+     }
+
+     
+
+     /*--- slider end---*/
+
+
+     /*--- service start---*/
+
+    .s_service {
+        margin-top: 5px;
+    }
+
+    .s_service h5 {
+        margin-bottom: 20px;
+    }
+
+    .s_service p {
+        margin: 10px 0;
+        font-size: 14px;
+        
+    }
+
+    .s_icon {
+        font-size: 25px;
+    }
+
+
+     /*--- service end---*/
+
+
+      /*--- ideas start---*/
+
+    .ideas h2 {
+        margin-top: -50px;
+        font-size: 22px;
+    }
+
+    .ideas p {
+        margin-top: 15px;
+        font-size: 14px;
+
+      }
+
+
+
+       /*--- ideas end---*/
+
+
+      /*--- purchase-bar start---*/
+
+      .purchase-bar {
+        height: 180px;
+      }
+
+      .purchase-bar h2 {
+        font-size: 25px;
+        
+      }
+
+      .purchase-bar p {
+        font-size: 16px;
+        
+      }
+
+      .purchase-now {
+
+      }
+
+       /*--- purchase-bar end---*/
+
+
+       /*--- latest project start---*/
+
+       .latest-projects {
+            margin-top: 30px;
+       }
+
+       .projects {
+            margin: 10px 0;
+       }
+
+       .latest-projects h2 {
+            font-size: 25px;
+       }
+
+
+       .latest-projects p {
+            font-size: 14px;
+            padding: 0 30px ;
+       }
+
+       .latest-projects h4 {
+            font-size: 18px;
+       }
+
+
+
+    /*--- latest project end---*/
+
+
+    /*--- content start---*/
+
+    .content {
+
+    }
+
+
+    .content img {
+        padding-top: 0;
+    }
+
+
+    .content h2 {
+        font-size: 25px;
+        padding-top: 25px;
+        
+    }
+
+
+    .content p {
+        font-size: 14px;
+        
+    }
+
+    .content ul li {
+        font-size: 14px;
+    }
+
+
+    .content ul li i {
+        font-size: 14px;
+    }
+
+    /*--- content end---*/
+
+
+    /*--- satisfy start---*/
+
+    .s_satisfied {
+        float: left;
+        width: 20%;
+    }
+
+    /*--- satisfy end---*/
+
+    /*--- recent post start---*/
+
+    .recent-post h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .recent-post p {
+        font-size: 14px !important;
+    }
+
+
+
+
+    /*--- recent post end---*/
+
+
+
+    /*--- brand start---*/
+
+    .s_brand {
+        float: left;
+       
+    }
+
+
+    .brand img {
+       
+    }
+
+
+
+    /*--- brand end---*/
+
+
+    /*--- footer start---*/
+
+    .footer {
+        height: auto;
+    }
+
+    .footer h4 {
+        font-size: 20px !important;
+        padding-top: 10px;
+    }
+
+
+    .footer p {
+        font-size: 14px !important;
+    }
+
+    /*--- footer end---*/
+
+
+
+    /*--- copyright start---*/
+
+    .copyright {
+        height: 60px;
+    }
+
+    .copyright ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+
+    /*--- copyright end---*/
+    
+ }
+
+/* X-Large devices (desktops, 992px and up) */ 
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+    /*--- menu start---*/
+
+    .menu ul li a{
+       
+        font-size: 16px;
+        font-weight: 600;
+        padding: 0 16px !important;
+        
+    }
+
+    /*--- menu end---*/
+    
+    /*--- slider start---*/
+
+     .slider h2 {
+        font-size: 30px;
+     }
+
+
+     .slider h1 {
+        font-size: 45px;
+     }
+
+
+     .slider p {
+        font-size: 16px;
+        padding: 0 50px;
+        
+     }
+
+
+     /*--- slider end---*/
+
+
+     /*--- service start---*/
+
+    .s_service {
+        margin-top: 5px;
+    }
+
+    .s_service h5 {
+        margin-bottom: 20px;
+    }
+
+    .s_service p {
+        margin: 10px 0;
+        font-size: 16px;
+        
+    }
+
+    .s_icon {
+        font-size: 25px;
+    }
+
+
+     /*--- service end---*/
+
+
+      /*--- ideas start---*/
+
+    .ideas h2 {
+        margin-top: -50px;
+        font-size: 22px;
+    }
+
+    .ideas p {
+        margin-top: 15px;
+        font-size: 16px;
+
+      }
+
+    /*--- ideas end---*/
+
+
+      /*--- purchase-bar start---*/
+
+      .purchase-bar {
+        height: 180px;
+      }
+
+      .purchase-bar h2 {
+        font-size: 25px;
+        
+      }
+
+      .purchase-bar p {
+        font-size: 16px;
+        
+      }
+
+      .purchase-now {
+
+      }
+
+       /*--- purchase-bar end---*/
+
+
+       /*--- latest project start---*/
+
+       .latest-projects {
+            margin-top: 30px;
+       }
+
+       .projects {
+            margin: 10px 0;
+       }
+
+       .latest-projects h2 {
+            font-size: 25px;
+       }
+
+
+       .latest-projects p {
+            font-size: 16px;
+            padding: 0 30px ;
+       }
+
+       .latest-projects h4 {
+            font-size: 20px;
+       }
+
+
+
+    /*--- latest project end---*/
+
+
+    /*--- content start---*/
+
+    
+
+
+    .content img {
+        padding-top: 0;
+    }
+
+
+    .content h2 {
+        font-size: 25px;
+        padding-top: 25px;
+        
+    }
+
+
+    .content p {
+        font-size: 16px;
+        
+    }
+
+    .content ul li {
+        font-size: 16px;
+    }
+
+
+    .content ul li i {
+        font-size: 16px;
+    }
+
+    /*--- content end---*/
+
+
+    /*--- satisfy start---*/
+
+    .s_satisfied {
+        float: left;
+        width: 20%;
+    }
+
+    /*--- satisfy end---*/
+
+    /*--- recent post start---*/
+
+    .recent-post h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .recent-post h4 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .recent-post p {
+        font-size: 16px !important;
+        padding:0 30px ;
+    }
+
+    .post p {
+        font-size: 16px !important;
+        padding:0 15px ;
+    }
+
+
+
+
+    /*--- recent post end---*/
+
+
+
+    /*--- brand start---*/
+
+    .s_brand {
+        float: left;
+       
+    }
+    /*--- brand end---*/
+
+
+    /*--- footer start---*/
+
+    .footer {
+        height: auto;
+    }
+
+    .footer h4 {
+        font-size: 20px !important;
+        padding-top: 10px;
+    }
+
+
+    .footer p {
+        font-size: 14px !important;
+    }
+
+    /*--- footer end---*/
+
+
+
+    /*--- copyright start---*/
+
+    .copyright {
+        height: 60px;
+    }
+
+    .copyright ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+
+    /*--- copyright end---*/
+    
+}
+
+/* XX-large devices (large desktops, 1200px and up) */ 
+@media (min-width: 1400px) {
+
+/*--- menu start---*/
+
+    .menu ul li a{
+       
+        font-size: 16px;
+        font-weight: 600;
+        padding: 0 16px !important;
+        
+    }
+
+    /*--- menu end---*/
+    
+    /*--- slider start---*/
+
+     .slider h2 {
+        font-size: 30px;
+     }
+
+
+     .slider h1 {
+        font-size: 45px;
+     }
+
+
+     .slider p {
+        font-size: 16px;
+        padding: 0 50px;
+        
+     }
+
+
+     /*--- slider end---*/
+
+
+     /*--- service start---*/
+
+    .s_service {
+        margin-top: 5px;
+    }
+
+    .s_service h5 {
+        margin-bottom: 20px;
+    }
+
+    .s_service p {
+        margin: 10px 0;
+        font-size: 16px;
+        
+    }
+
+    .s_icon {
+        font-size: 25px;
+    }
+
+
+     /*--- service end---*/
+
+
+      /*--- ideas start---*/
+
+    .ideas h2 {
+        margin-top: -50px;
+        font-size: 22px;
+    }
+
+    .ideas p {
+        margin-top: 15px;
+        font-size: 16px;
+
+      }
+
+    /*--- ideas end---*/
+
+
+      /*--- purchase-bar start---*/
+
+      .purchase-bar {
+        height: 180px;
+      }
+
+      .purchase-bar h2 {
+        font-size: 25px;
+        
+      }
+
+      .purchase-bar p {
+        font-size: 16px;
+        
+      }
+
+      .purchase-now {
+
+      }
+
+       /*--- purchase-bar end---*/
+
+
+       /*--- latest project start---*/
+
+       .latest-projects {
+            margin-top: 30px;
+       }
+
+       .projects {
+            margin: 10px 0;
+       }
+
+       .latest-projects h2 {
+            font-size: 25px;
+       }
+
+
+       .latest-projects p {
+            font-size: 16px;
+            padding: 0 30px ;
+       }
+
+       .latest-projects h4 {
+            font-size: 20px;
+       }
+
+
+
+    /*--- latest project end---*/
+
+
+    /*--- content start---*/
+
+    
+
+
+    .content img {
+        padding-top: 0;
+    }
+
+
+    .content h2 {
+        font-size: 25px;
+        padding-top: 25px;
+        
+    }
+
+
+    .content p {
+        font-size: 16px;
+        
+    }
+
+    .content ul li {
+        font-size: 16px;
+    }
+
+
+    .content ul li i {
+        font-size: 16px;
+    }
+
+    /*--- content end---*/
+
+
+    /*--- satisfy start---*/
+
+    .s_satisfied {
+        float: left;
+        width: 20%;
+    }
+
+    /*--- satisfy end---*/
+
+    /*--- recent post start---*/
+
+    .recent-post h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    .recent-post h4 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .recent-post p {
+        font-size: 16px !important;
+        padding:0 30px ;
+    }
+
+    .post p {
+        font-size: 16px !important;
+        padding:0 15px ;
+    }
+
+
+
+
+    /*--- recent post end---*/
+
+
+
+    /*--- brand start---*/
+
+    .s_brand {
+        float: left;
+       
+    }
+    /*--- brand end---*/
+
+
+    /*--- footer start---*/
+
+    .footer {
+        height: auto;
+    }
+
+    .footer h4 {
+        font-size: 20px !important;
+        padding-top: 10px;
+    }
+
+
+    .footer p {
+        font-size: 14px !important;
+    }
+
+    /*--- footer end---*/
+
+
+
+    /*--- copyright start---*/
+
+    .copyright {
+        height: 60px;
+    }
+
+    .copyright ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+
+    /*--- copyright end---*/
+    
+} 
+
+
+    
